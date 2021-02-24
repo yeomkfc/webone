@@ -1,72 +1,26 @@
-.head-one{
-  display: inline;
-  margin-left: 45%;
+.heading{
+  background-color: #aee1e1;
+  width: 100%;
+  height: 100%;
+  text-align: center;
+
 }
 
-.head-two{
-display: inline;
-margin-left: 50px;
+.profile{
+  border-radius: 50%;
+  border-width: 30px;
+width: 120px;
+height: 120px;
+  }
+
+.name{
+  text-align: center;
 }
 
-.image{
-  height: 200px;
-  width: 200px;
-  margin-left: 75px;
-  margin-top: 50px;
-  border-radius: 180px;
+.contact{
+  text-align: center;
 }
 
-.div-one{
-  margin-top: 75px;
-  color: #75cfb8;
-  font-size: 25px;
-  margin-left: 30%
-}
-
-.div-top{
-  height: 600px;
-  background-color: #ffc478;
-}
-
-  .btn {
-   background: #3D94F6;
-   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
-   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
-   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
-   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
-   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 20px;
-   color: #99C624;
-   font-family: Brush Script MT;
-   font-size: 64px;
-   font-weight: 600;
-   padding: 71px;
-   -webkit-box-shadow: 1px 1px 20px 0 #000000;
-   -moz-box-shadow: 1px 1px 20px 0 #000000;
-   box-shadow: 1px 1px 20px 0 #000000;
-   text-shadow: 1px 1px 20px #000000;
-   border: solid #337FED 1px;
-   text-decoration: none;
-   display: inline-block;
-   cursor: pointer;
-   text-align: center;
-   margin-left: 45%;
-   margin-top: 50px;
-}
-
-.btn:hover {
-   border: solid #337FED 1px;
-   background: #1E62D0;
-   background-image: -webkit-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -moz-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -ms-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -o-linear-gradient(top, #1E62D0, #3D94F6);
-   background-image: -webkit-gradient(to bottom, #1E62D0, #3D94F6);
-   -webkit-border-radius: 20px;
-   -moz-border-radius: 20px;
-   border-radius: 20px;
-   text-decoration: none;
-}
+.body{
+  background-color: #fcd1d1;
 }
